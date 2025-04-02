@@ -1,5 +1,6 @@
 <<<<<<< HEAD
-# dart_project
+[Your changes]
 =======
-"# Project Title" 
->>>>>>> c3f9d6e (Add README.md)
+[Changes from the remote]
+>>>>>>> [commit hash]
+
