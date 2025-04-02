@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-[Your changes]
-=======
-[Changes from the remote]
->>>>>>> [commit hash]
+# dart_project
+My local README changes  
+Updated project description from remote
+
 
